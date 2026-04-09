@@ -21,6 +21,7 @@ Me gusta construir proyectos reales — desde sistemas de gestión hasta sitios 
 ### 🥩 Boutique La Paz
 Sitio web para una boutique de carnes del GBA. Diseño responsive, dark mode, mapa de sucursales interactivo y animaciones con Framer Motion.
 **Stack:** React · TypeScript · Tailwind CSS · shadcn/ui
+🔗 [Ver en producción](https://www.lapaz.com.ar/)
 🔗 [Ver repositorio](https://github.com/niqo808/boutique-react)
 
 ---
@@ -28,6 +29,7 @@ Sitio web para una boutique de carnes del GBA. Diseño responsive, dark mode, ma
 ### 🎓 Régimen Académico
 Sistema web de gestión escolar con roles diferenciados (director, preceptor, profesor y alumno). Incluye notas, asistencias, boletines e importación masiva por CSV.
 **Stack:** PHP · MySQL · HTML · CSS
+🔗 [Ver en producción](http://www.tecnica2sm.edu.ar/)
 🔗 [Ver repositorio](https://github.com/niqo808/Regimen_Academico)
 
 ---
